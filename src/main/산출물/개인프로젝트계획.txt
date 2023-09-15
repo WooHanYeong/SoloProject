@@ -1,0 +1,22 @@
+질의응답사이트. A-ha 벤치마킹
+
+Table
+
+User - 관리자1 유저2 -(답변자 등록)
+
+Product - 멤버쉽 , 기프티콘
+Order 멤버쉽 기프티콘 
+
+Board - @@질의응답게시판@@ inquiries  /  공지사항 board / 자주하는질문 3 /이벤트 event
+(no,title,content,date,user_id)
+
+Point - 답변얻으면 + // 이주,이달이 랭킹 //
+(no)
+
+order
+
+cart
+
+
+
+
